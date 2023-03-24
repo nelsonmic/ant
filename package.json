@@ -1,0 +1,38 @@
+{
+	"name": "ant",
+	"version": "1.0.0",
+	"description": "ant (animate text) is an easy-to-use JavaScript library that provides a simple way to animate text when they appear on the viewport. With ant, you can create eye-catching text animations without the need for complex CSS or JavaScript animations. The library supports a range of animation effects, whether you're building a landing page, an online portfolio, or an e-commerce site, ant is a powerful tool for adding visual interest to your text content.",
+	"source": "src/index.js",
+	"main": "dist/ndex.js",
+	"scripts": {
+		"watch": "parcel watch",
+		"build": "parcel build",
+		"deploy": "npm run build && npm publish"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nelsonmic/ant.git"
+	},
+	"keywords": [
+		"text-animation",
+		"typewriter-effect",
+		"web-animation",
+		"animated-text",
+		"Javascript-animation",
+		"animated-typography"
+	],
+	"author": "Nelson Michael",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/nelsonmic/ant/issues"
+	},
+	"homepage": "https://github.com/nelsonmic/ant#readme",
+	"dependencies": {
+		"@studio-freight/lenis": "^1.0.4",
+		"gsap": "^3.11.5",
+		"splitting": "^1.0.6"
+	},
+	"devDependencies": {
+		"parcel": "^2.8.3"
+	}
+}
