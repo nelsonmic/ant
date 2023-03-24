@@ -1,7 +1,7 @@
 {
 	"name": "antxt",
 	"version": "1.0.0",
-	"description": "antext (animate text) is an easy-to-use JavaScript library that provides a simple way to animate text when they appear on the viewport. With antext, you can create eye-catching text animations without the need for complex CSS or JavaScript animations. The library supports a range of animation effects, whether you're building a landing page, an online portfolio, or an e-commerce site, antxt is a powerful tool for adding visual interest to your text content.",
+	"description": "antext (animate text) is an easy-to-use JavaScript library that provides a simple way to animate text when they appear on the viewport. With antext, you can create eye-catching text animations without the need for complex CSS or JavaScript animations. The library supports a range of animation effects, whether you're building a landing page, an online portfolio, or an e-commerce site, antxt is a powerful tool for adding visual interest to your text content..",
 	"source": "src/index.js",
 	"main": "dist/index.js",
 	"scripts": {
